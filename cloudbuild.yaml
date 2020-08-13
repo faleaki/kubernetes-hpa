@@ -1,5 +1,5 @@
 steps:
-- id: "Rodando o push da imagem"
+- id: "Rodando o push da Imagem"
   name: 'gcr.io/cloud-builders/docker'
   args:
   - 'build'
